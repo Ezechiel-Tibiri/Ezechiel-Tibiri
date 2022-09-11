@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ezechiel-Tibiri
+- 👋 Hi, I’m Ezechiel Tibiri
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on all about bioinformatics
